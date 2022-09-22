@@ -1,0 +1,98 @@
+{
+  "name": "Tasty Indian Food",
+  "logo": "icon.png",
+  "bg": "indianFood1.jpeg",
+  "items": [
+    {
+      "img": "food1.jpeg",
+      "price": "50$",
+      "spice": 2,
+      "veg": true,
+      "old_price": "300$",
+      "tag": "special",
+      "description": "Some quick example text to build on the card title and make up the btent.",
+      "name": "Food"
+    },
+    {
+      "img": "food3.webp",
+      "price": "50$",
+      "spice": 1,
+      "tag": "awsome",
+      "description": "Some quick example ick example text to build on the card title and make up the bulk of the card's content text to build on the card title and make up the bulk of the card's content.",
+      "name": "Food"
+    },
+    {
+      "img": "food2.webp",
+      "price": "50$",
+      "spice": 3,
+      "veg": true,
+      "old_price": "400$",
+      "tag": "awsome",
+      "description": "Some quild on the card title and make up the bulk of the card's content.",
+      "name": "Food"
+    },
+    {
+      "img": "food3.webp",
+      "price": "50$",
+      "spice": 1,
+      "tag": "awsome",
+      "description": "Some quick example ick example text to build on the card title and make up the bulk of the card's content text to build on the card title and make up the bulk of the card's content.",
+      "name": "Food"
+    },
+    {
+      "img": "food4.webp",
+      "price": "50$",
+      "spice": 3,
+      "veg": true,
+      "old_price": "400$",
+      "tag": "awsome",
+      "description": "Some quild on the card title and make up the bulk of the card's content.",
+      "name": "Food"
+    }
+  ],
+  "items2": [
+    {
+      "img": "food6.webp",
+      "price": "50$",
+      "spice": 2,
+      "veg": true,
+      "old_price": "300$",
+      "tag": "special",
+      "description": "Some quick example text to build on the card title and make up the btent.",
+      "name": "Food"
+    },
+    {
+      "img": "food7.webp",
+      "price": "50$",
+      "spice": 1,
+      "tag": "awsome",
+      "description": "Some quick example ick example text to build on the card title and make up the bulk of the card's content text to build on the card title and make up the bulk of the card's content.",
+      "name": "Food"
+    },
+    {
+      "img": "food8.webp",
+      "price": "50$",
+      "spice": 3,
+      "veg": true,
+      "old_price": "400$",
+      "tag": "awsome",
+      "description": "Some quild on the card title and make up the bulk of the card's content.",
+      "name": "Food"
+    },
+    {
+      "img": "food9.webp",
+      "price": "50$",
+      "spice": 1,
+      "tag": "awsome",
+      "description": "Some quick example ick example text to build on the card title and make up the bulk of the card's content text to build on the card title and make up the bulk of the card's content.",
+      "name": "Food"
+    },
+    {
+      "price": "50$",
+      "spice": 3,
+      "veg": true,
+      "old_price": "400$",
+      "description": "Some quild on the card title and make up the bulk of the card's content.",
+      "name": "Food"
+    }  ]
+}
